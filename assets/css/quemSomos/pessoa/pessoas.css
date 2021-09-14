@@ -1,4 +1,4 @@
-@import url('/assets/css/quemSomos/pessoa/pessoa.css');
+@import url('pessoa.css');
 .pessoas{
     display: flex;
     justify-content: space-around;

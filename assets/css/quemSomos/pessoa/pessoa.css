@@ -1,6 +1,6 @@
-@import url('/assets/css/quemSomos/pessoa/pessoa-funcao.css');
-@import url('/assets/css/quemSomos/pessoa/pessoa-imagem.css');
-@import url('/assets/css/quemSomos/pessoa/pessoa-nome.css');
+@import url('pessoa-funcao.css');
+@import url('pessoa-imagem.css');
+@import url('pessoa-nome.css');
 
 
 .pessoa{

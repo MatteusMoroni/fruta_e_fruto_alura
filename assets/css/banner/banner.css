@@ -1,5 +1,5 @@
-@import url('/assets/css/banner/banner-imagem.css');
-@import url('/assets/css/banner/banner-titulo.css');
+@import url('banner-imagem.css');
+@import url('banner-titulo.css');
 
 .banner {
     position: relative;

@@ -1,9 +1,9 @@
-@import url('/assets/css/receita/receita-botao.css');
-@import url('/assets/css/receita/receita-conteudo.css');
-@import url('/assets/css/receita/receita-descricao.css');
-@import url('/assets/css/receita/receita-imagem.css');
-@import url('/assets/css/receita/receita-titulo.css');
-@import url('/assets/css/receita/receita.css');
+@import url('receita-botao.css');
+@import url('receita-conteudo.css');
+@import url('receita-descricao.css');
+@import url('receita-imagem.css');
+@import url('receita-titulo.css');
+@import url('receita.css');
 
 
 .receitas {

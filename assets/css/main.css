@@ -1,8 +1,9 @@
 @import url('banner/banner.css');
 @import url('menu/cabecalho.css');
-@import url('/assets/css/receita/receitas.css');
-@import url('/assets/css/sobre/sobre.css');
-@import url('/assets/css/quemSomos/quemSomos.css');
-@import url('/assets/css/reset.css');
-@import url('/assets/css/normalize.css');
-@import url('/assets/css/rodape.css');
+@import url('receita/receitas.css');
+@import url('sobre/sobre.css');
+@import url('quemSomos/quemSomos.css');
+@import url('reset.css');
+@import url('normalize.css');
+@import url('rodape.css');
+
