@@ -1,0 +1,8 @@
+@import url('quemSomos-descricao.css');
+@import url('quemSomos-titulo.css');
+@import url('/assets/css/quemSomos/pessoa/pessoas.css');
+
+.quem-somos{
+    text-align: center;
+    padding: 2.5rem;
+}

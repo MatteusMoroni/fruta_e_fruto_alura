@@ -1,0 +1,13 @@
+.receita {
+    background: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin: 1.5rem;
+    width: 16rem;
+    position: relative;
+
+}

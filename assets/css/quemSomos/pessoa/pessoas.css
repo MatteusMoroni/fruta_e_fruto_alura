@@ -1,0 +1,16 @@
+@import url('/assets/css/quemSomos/pessoa/pessoa.css');
+.pessoas{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+@media screen and (max-width: 980px) {
+    .pessoas {
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 5rem;
+
+    }
+}

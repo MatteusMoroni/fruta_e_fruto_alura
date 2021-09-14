@@ -1,0 +1,12 @@
+@import url('/assets/css/quemSomos/pessoa/pessoa-funcao.css');
+@import url('/assets/css/quemSomos/pessoa/pessoa-imagem.css');
+@import url('/assets/css/quemSomos/pessoa/pessoa-nome.css');
+
+
+.pessoa{
+    display: flex;
+    flex-direction: column;
+
+    padding-top: 3rem;
+}
+
